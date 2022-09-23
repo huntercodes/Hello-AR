@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		4182F7DA28DE4AF1009E5986 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182F7D928DE4AF1009E5986 /* AppDelegate.swift */; };
 		4182F7DC28DE4AF1009E5986 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182F7DB28DE4AF1009E5986 /* ContentView.swift */; };
-		4182F7DE28DE4AF1009E5986 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 4182F7DD28DE4AF1009E5986 /* Experience.rcproject */; };
 		4182F7E028DE4AF1009E5986 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4182F7DF28DE4AF1009E5986 /* Assets.xcassets */; };
 		4182F7E328DE4AF1009E5986 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4182F7E228DE4AF1009E5986 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		4182F7D628DE4AF1009E5986 /* Hello AR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello AR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4182F7D928DE4AF1009E5986 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4182F7DB28DE4AF1009E5986 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		4182F7DD28DE4AF1009E5986 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		4182F7DF28DE4AF1009E5986 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4182F7E228DE4AF1009E5986 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				4182F7D928DE4AF1009E5986 /* AppDelegate.swift */,
 				4182F7DB28DE4AF1009E5986 /* ContentView.swift */,
-				4182F7DD28DE4AF1009E5986 /* Experience.rcproject */,
 				4182F7DF28DE4AF1009E5986 /* Assets.xcassets */,
 				4182F7E128DE4AF1009E5986 /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				4182F7DC28DE4AF1009E5986 /* ContentView.swift in Sources */,
 				4182F7DA28DE4AF1009E5986 /* AppDelegate.swift in Sources */,
-				4182F7DE28DE4AF1009E5986 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
