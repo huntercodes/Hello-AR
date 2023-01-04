@@ -17,9 +17,14 @@ struct ContentView : View {
 
 struct ARViewContainer: UIViewRepresentable {
     func makeUIView(context: Context) -> ARView {
-        let arView = ARView(frame: .zero)
-        let anchor = AnchorEntity(plane: .horizontal)
+        let arView = ARView(
+            frame: .zero
+        )
         
+        let anchor = AnchorEntity(
+            plane: .horizontal
+        )
+       
         let text = ModelEntity(
             mesh: .generateText(
                 "Hello AR",
